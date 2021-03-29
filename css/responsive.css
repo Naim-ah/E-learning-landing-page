@@ -1,0 +1,836 @@
+@media(min-width:1200px) and (max-width: 1400px){
+    .header-bg {
+        width: 55%;
+        text-align: right;
+    }
+    .ins-name h4 {
+        font-size: 20px;
+    }
+    .instructor-img {
+        margin-right: 25px;
+    }
+    span.student-num-2::before {
+        top: 6px;
+    }
+    .ins-name p {
+        font-size: 15px;
+    }
+    .student-num-2 {
+        font-size: 13px;
+    }
+    span.student-num {
+        font-size: 13px;
+    }
+    .student-courses p {
+        font-size: 13px;
+    }
+    .popular-title h3 {
+        font-size: 16px;
+    }
+    .begginer span {
+        font-size: 13px;
+    }
+    .lecture span {
+        font-size: 13px;
+    }
+    .time span {
+        font-size: 13px;
+    }
+    .main-title-text h2 {
+        font-size: 30px;
+        max-width: 450px;
+        line-height: 45px;
+    }
+    .main-title-text p {
+        font-size: 16px;
+        max-width: 450px;
+    }
+    .search-category-content {
+        padding: 10px 15px;
+        max-width: 450px;
+    }
+    .serach-icon-text i {
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    .serach-icon-text p {
+        font-size: 13px;
+    }
+    .catergory a {
+        padding-left: 10px;
+    }
+    .search-btn a {
+        padding: 15px 25px;
+    }
+    /* educate platform section */
+    .feature-title h2 {
+        font-size: 40px;
+        max-width: 750px;
+    }
+}
+
+
+
+@media (min-width: 992px) and (max-width:1200px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right:0px; 
+        padding-left: 16px;
+        font-size: 14px;
+    }
+    .main-title-text h2 {
+        font-size: 30px;
+        max-width: 400px;
+    }
+    .instructor-desc {
+        padding: 20px 13px;
+    }
+    .main-title-text p {
+        max-width: 400px;
+    }
+    .search-form {
+        max-width: 460px;
+    }
+    .search-form .input-field {
+        max-width: 178px;
+    }
+    .search-form input {
+        width: 185px;
+    }
+    .header-bg {
+        width: 50%;
+    }
+    .ins-name h4 {
+        font-size: 17px;
+    }
+    .feature-title h2 {
+        font-size: 40px;
+    }
+    .ins-name p {
+        font-size: 12px;
+    }
+    span.student-num {
+        font-size: 10px;
+    }
+    .student-num-2 {
+        font-size: 10px;
+    }
+    .ins-rating span {
+        color: #EA7D17;
+        font-size: 12px;
+    }
+    .ins-rating i {
+        /* margin-left: 5px; */
+        margin: 0 6px;
+        font-size: 14px;
+    }
+    .ins-rating p {
+        font-size: 14px;
+    }
+    .student-courses p {
+        font-size: 11px;
+    }
+    span.student-num {
+        font-size: 11px;
+    }
+    .instructor-img {
+        margin-right: 8px;
+    }
+    span.student-num-2::before {
+        top: 5px;
+    }
+    /* popular courses */
+    .popular-title h3 {
+        font-size: 18px;
+        letter-spacing: .2px;
+    }
+    .student-revaling {
+        padding-left:20px;
+    }
+    .students span {
+        font-size:15px;
+    }
+    .students p {
+        font-size:15px;
+    }
+    .time i {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .lecture img{
+        width:15px;
+        margin-bottom:5px;
+    }
+    .begginer img{
+        width:15px;
+        margin-bottom:5px; 
+    }
+    .time span {
+        font-size:14px;
+    }
+    .lecture span {
+        font-size:14px;
+    }
+    .begginer span {
+        font-size:14px;
+    }
+    .time-lecture i {
+        margin-right:2px;
+    }
+    .lecturer h5 {
+        margin-left:10px;
+    }
+    .lecturer h5 {
+        font-size:15px;
+    }
+    .price h5 {
+        font-size:18px;
+    }
+    .register-text h2 {
+        font-size:40px;
+    }
+    .footer-explore a {
+        font-size:13px;
+    }
+    .footer-first-text p {
+        font-size:14px;
+    }
+    .studentRevealing-rightSide h5 {
+        font-size: 30px;
+    }
+    .studentRevealing-rightSide p {
+        font-size: 17px;
+        letter-spacing:0px; 
+    }
+    .lecture img {
+        margin-right: 2px;
+    }
+    .begginer img {
+        margin-right: 2px;
+    }
+}
+
+@media (min-width: 768px) and (max-width:992px){
+    
+    .header-bg {
+        top: auto;
+        bottom: 0;
+        width: 60%;
+    }
+    .feature-bg {
+        top: -5%;
+    }
+    .time-lecture i {
+        margin-right: 5px;
+    }
+    .lecture img {
+        margin-right: 5px;
+    }
+    .begginer img {
+        margin-right: 5px;
+    }
+    .main-title-text h2 {
+        font-size: 48px;
+        max-width: 650px;
+        margin-bottom: 50px;
+    }
+    .main-title-text p {
+        max-width: 550px;
+    }
+    .search-btn {
+        padding-left:0px;
+    }
+    .serach-icon-text i {
+        font-size: 15px;
+        margin-right: 5px;
+    }
+    .search-category-content {
+        max-width: 320px;
+        padding: 10px 10px;
+    }
+    .header-img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .feature-title h2 {
+        font-size: 38px;
+        font-weight: bold;
+        line-height: 65px;
+        margin-top: 80px;
+    }
+    .instructor-img {
+        margin-right: 10px;
+    }
+    .ins-name h4 {
+        font-size: 20px;
+    }
+    .ins-name p {
+        font-size: 14px;
+    }
+    .ins-rating p {
+        font-size: 14px;
+    }
+    .ins-rating i {
+        font-size: 14px;
+    }
+    .ins-rating span {
+        font-size: 14px;
+    }
+    span.student-num {
+        font-size: 13px;
+    }
+    .student-courses p {
+        font-size: 14px;
+    }
+    .student-num-2 {
+        font-size: 13px;
+    }
+    .instructor-desc {
+        margin-bottom: 25px;
+    }
+    .lecturer h5 {
+        margin-left: 10px;
+        font-size: 17px;
+    }
+    .price h5 {
+        font-size: 20px;
+    }
+    span.student-num-2::before {
+        top: 7px;
+    }
+    /* popular */
+    .popular-title h3 {
+        font-size: 14px;
+    }
+    .students span {
+        font-size: 16px;
+    }
+    .time span {
+        font-size: 13px;
+    }
+    .lecture span {
+        font-size: 13px;
+    }
+    .begginer span {
+        font-size: 13px;
+    }
+    .studentRevealing-rightSide {
+        max-width: 700px;
+        margin: auto;
+        margin-top: 100px;
+    }
+    .revealing-btn {
+        width: 150px;
+        margin: auto;
+    }
+    .student-image {
+        top: 10%;
+    }
+    .student-imgBg-2 {
+        left: -10%;
+    }
+    .register-text {
+        text-align: center;
+    }
+    .register-text p {
+        font-size: 17px;
+        max-width: 600px;
+        margin: auto;
+        line-height: 35px;
+    }
+    .register-btn {
+        text-align: center;
+        width: 250px;
+        margin: auto;
+        padding-top: 40px;
+    }
+    .footer-explore h5 {
+        margin-bottom: 30px;
+        color: #747888;
+        font-size: 18px;
+    }
+    .download-app h5 {
+        color: #747888;
+        margin-bottom: 30px;
+    }
+    .copyright-text {
+        margin-bottom: 20px;
+    }
+    .footer-explore a {
+        font-size: 15px;
+    }
+    .header-img {
+        position: relative;
+        text-align: right;
+        margin-top: 50px;
+    }
+    .client-logo{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .search-category-content {
+        max-width: 650px;
+        padding: 20px 20px;
+    }
+    .footer-md-item{
+        margin-top:50px;
+    }
+    .copyright-text {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    }
+    
+
+
+@media(max-width:768px){
+    .search-form {
+        max-width: 520px;
+        margin-bottom: 80px;
+    }
+    .search-form .input-field {
+        max-width: 227px;
+    }
+    .search-form input {
+        width: 220px;
+    }
+    .time-lecture i {
+        margin-right: 5px;
+    }
+    .lecture img {
+        margin-right: 5px;
+    }
+    .begginer img {
+        margin-right: 5px;
+    }
+    .header-bg {
+        position: absolute;
+        top: auto;
+        right: 0;
+        z-index: -1;
+        bottom: 0;
+        width: 70%;
+    }
+    .main-title-text h2 {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .client-logo{
+        padding: 30px 0;
+        /* position: relative; */
+    }
+    .feature-bg {
+        top: 18%;
+        overflow: hidden;
+    }
+    .feature-title h2 {
+        font-size: 25px;
+    }
+    .feature-service{
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .feature-ser-text {
+        margin: auto;
+    }
+    .instructor-img {
+        margin-right: 35px;
+    }
+    .ins-name h4 {
+        font-size: 25px;
+    }
+    .popular-img img{
+        width: 100%;
+    }
+    .instructor-desc {
+        max-width: 400px;
+        margin: 0 auto 20px;
+    }
+    .category-title ul li {
+        padding: 10px;
+        margin-bottom: 5px;
+    }
+    .categories-play {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 20px;
+    }
+    .categories-play::before {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .popular-title h3 {
+        font-size: 15px;
+    }
+
+    .time span {
+        font-size: 13px;
+    }
+    .lecture span {
+        font-size: 13px;
+    }
+    .begginer span {
+        font-size: 13px;
+    }
+    .lecturer h5 {
+        margin-left: 10px;
+        font-size: 17px;
+    }
+    .price h5 {
+        font-size: 20px;
+    }
+    .trusted-text h2 {
+        font-size: 60px;
+    }
+    .trusted-text {
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid transparent;
+        padding: 16px 0;
+        margin-bottom: 20px;
+    }
+    .student-revaling {
+        background: #F5F6F9;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .revaling-left-secound-item {
+        margin-bottom: 90px;
+    }
+    .revaling-left-last-item {
+        margin-bottom: 80px;
+    }
+    .studentRevealing-rightSide h5 {
+        font-size: 40px;
+        margin-bottom: 30px;
+        line-height: 60px;
+    }
+    .student-imgBg-2 {
+        left: -10%;
+        bottom: -10%;
+    }
+    .register-text h2 {
+        font-size: 40px;
+    }
+    .footer-explore {
+        margin-bottom: 60px;
+    }
+    .footer-explore a {
+        font-size: 14px;
+    }
+    .copyright-text {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:576px){
+    .main-title-text h2 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .time-lecture i {
+        margin-right: 10px;
+    }
+    .lecture img {
+        margin-right: 10px;
+    }
+    .begginer img {
+        margin-right: 10px;
+    }
+    .time span {
+        font-size: 14px;
+    }
+    .lecture span {
+        font-size: 14px;
+    }
+    .begginer span {
+        font-size: 14px;
+    }
+    .search-form{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .revaling-left-first-item {
+        margin: auto;
+    }
+    .catergory {
+        margin-bottom: 20px;
+        width: 250px;
+        margin-left: 110px;
+        margin-top: 10px;
+    }
+    .search-form button {
+        padding: 20px 40px;
+        width: 140px;
+        margin-right: 65px;
+    }
+    .feature-service {
+        margin: auto;
+    }
+    .feature-ser-text p {
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+    .feature-icon-img {
+        margin-bottom: 20px;
+    }
+    .clints-logos{
+        justify-content: center;
+    }
+    .categories-play {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 30px;
+    }
+    .categories-play::before {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .popular-title h3 {
+        font-size: 20px;
+    }
+    .register-text h2 {
+        font-size: 30px;
+    }
+    .register-text p {
+        font-size: 14px;
+    }
+    .revaling-left-secound-item {
+        margin-bottom: 100px;
+    }
+    .payment-item p {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .copyright-text p {
+        text-align: center;
+    }
+    .feature-bg {
+        top: 0;
+        overflow: hidden;
+    }
+    .feature-title h2 {
+        font-size: 25px;
+        margin-top:100px;
+    }
+    .instructor-desc {
+        max-width: 400px;
+        margin: 0 auto 20px;
+    }
+    .studentRevealing-rightSide h5 {
+        font-size: 28px;
+        line-height: 45px;
+    }
+    .student-desc h5 {
+        font-size: 18px;
+    }
+    .footer-explore {
+        margin-bottom: 85px;
+    }
+    .student-imgBg-2 {
+        left: -5%;
+        bottom: -13%;
+        overflow: hidden;
+    }
+}
+@media (min-width:375px) and (max-width:470px){
+    .main-title-text h2 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .footer-first-text p {
+        font-size: 14px;
+    }
+    .categories-play {
+        top: 20%;
+    }
+    .register-text h2 {
+        font-size: 28px;
+    }
+    .time-lecture i {
+        margin-right: 3px;
+    }
+    .lecture img {
+        margin-right: 3px;
+    }
+    .begginer img {
+        margin-right: 3px;
+    }
+    .time span {
+        font-size: 13px;
+    }
+    .lecture span {
+        font-size: 13px;
+    }
+    .begginer span {
+        font-size: 13px;
+    }
+    .category-title ul li {
+        padding: 5px;
+        margin-bottom: 5px;
+    }
+    .ins-name h4 {
+        font-size: 20px;
+    }
+    .ins-name p {
+        font-size: 14px;
+    }
+    .instructor-img {
+        margin-right: 20px;
+    }
+    span.student-num {
+        font-size: 14px;
+    }
+    .student-num-2 {
+        font-size: 14px;
+    }
+    .student-courses p {
+        font-size: 12px;
+    }
+    .footer-social a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    .popular-title h3 {
+        font-size: 16px;
+    }
+    .feature-title h2 {
+        font-size: 19px;
+        margin-top: 110px;
+        line-height: 50px;
+        word-spacing: 1.5px;
+    }
+    .footer-social a i {
+        margin-bottom: 40px;
+    }
+}
+@media(max-width:375px){
+    .main-title-text h2 {
+        font-size: 20px;
+        line-height: 50px;
+        max-width: 300px;
+    }
+    .footer-explore{
+        margin-bottom:20px;
+    }
+    .lecturer h5 {
+        margin-left: 10px;
+        font-size: 14px;
+    }
+    .studentRevealing-rightSide h5 {
+        font-size: 26px;
+    }
+    span.student-num-2::before {
+        top: 5px;
+    }
+    .main-title-text p {
+        max-width: 280px;
+    }
+    .feature-title h2 {
+        font-size: 20px;
+        line-height: 40px;
+        margin-top: 115px;
+    }
+    .search-form {
+        max-width: 302px;
+        margin-bottom: 80px;
+    }
+    .categories-play {
+        top: 25%;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+    .categories-play::before {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .instracture-content h3 {
+        font-size: 20px;
+    }
+    .instructor-img {
+        margin-right: 10px;
+    }
+    .ins-name h4 {
+        font-size: 18px;
+    }
+    .ins-name p {
+        font-size: 13px;
+    }
+    .ins-rating span {
+        font-size: 13px;
+    }
+    .ins-rating p {
+        font-size: 14px;
+    }
+    .ins-rating i {
+        font-size: 14px;
+    }
+    span.student-num {
+        font-size: 11px;
+    }
+    span.student-num {
+        font-size: 11px;
+    }
+    .student-courses p {
+        font-size: 11px;
+    }
+    .student-num-2 {
+        font-size: 11px;
+    }
+    .ins-name p {
+        font-size: 12px;
+    }
+    .lecture span {
+        font-size: 11px;
+    }
+    .time span {
+        font-size: 11px;
+    }
+    .begginer span {
+        font-size: 11px;
+    }
+    .popular-title h3 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .studentRevealing-rightSide p {
+        font-size: 14px;
+        letter-spacing: 0px;
+        margin-bottom: 40px;
+    }
+    .student-voice-content h3 {
+        font-size: 30px;
+    }
+    .student-desc h5 {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .register-text h2 {
+        font-size: 25px;
+    }
+    .footer-social a i {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+    .payment-item img {
+        margin-right: 0px;
+    }
+    .revaling-left-last-item {
+        overflow: hidden;
+    }
+    .footer-first-text p {
+        font-size: 12px;
+    }
+    .search-form button {
+        padding: 15px 28px;
+    }
+}
