@@ -276,13 +276,13 @@
         font-size: 14px;
     }
     span.student-num {
-        font-size: 13px;
+        font-size: 12px;
     }
     .student-courses p {
-        font-size: 14px;
+        font-size: 13px;
     }
     .student-num-2 {
-        font-size: 13px;
+        font-size: 12px;
     }
     .instructor-desc {
         margin-bottom: 25px;
@@ -382,7 +382,7 @@
     
 
 
-@media(max-width:768px){
+@media(max-width:767px){
     .search-form {
         max-width: 520px;
         margin-bottom: 80px;
@@ -438,18 +438,7 @@
     span.student-num-2::before {
         top: 5px;
     }
-    .ins-name h4 {
-        font-size: 18px;
-    }
-    .ins-name p {
-        font-size: 12px;
-    }
-    .student-num-2 {
-        font-size: 11px;
-    }
-    span.student-num {
-        font-size: 11px;
-    }
+
     .popular-img img{
         width: 100%;
     }
