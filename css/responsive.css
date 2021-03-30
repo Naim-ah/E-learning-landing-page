@@ -433,10 +433,22 @@
         margin: auto;
     }
     .instructor-img {
-        margin-right: 35px;
+        margin-right: 7px;
+    }
+    span.student-num-2::before {
+        top: 5px;
     }
     .ins-name h4 {
-        font-size: 25px;
+        font-size: 18px;
+    }
+    .ins-name p {
+        font-size: 12px;
+    }
+    .student-num-2 {
+        font-size: 11px;
+    }
+    span.student-num {
+        font-size: 11px;
     }
     .popular-img img{
         width: 100%;
