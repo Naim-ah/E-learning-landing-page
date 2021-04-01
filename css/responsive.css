@@ -642,6 +642,75 @@
     }
 }
 @media (min-width:375px) and (max-width:470px){
+    .hero-section {
+        padding:0px;
+    }
+    .main-title-text h2 {
+        font-size: 20px;
+        line-height: 38px;
+        max-width: 300px;
+        margin-bottom: 25px;
+    }
+    .main-title-text p {
+        max-width: 280px;
+        font-size: 16px;
+    }
+    .catergory {
+        margin-left: 54px;
+    }
+    .search-btn {
+        padding-left: 0px;
+    }
+    .search-form button {
+        padding: 15px 28px;
+        border-radius:12px;
+    }
+    .feature-title h2 {
+        font-size: 20px;
+        line-height: 40px;
+        margin-top: 150px;
+    }
+    .feature-ser-text p {
+        font-size: 18px;
+        margin-bottom: 50px;
+    }
+    .popular-course-singleItem {
+        margin: 0 0px 20px 0px;
+    }
+    .populars-btn a {
+        margin-bottom: 60px;
+        margin-top: 20px;
+    }
+    .revaling-left-last-item {
+       margin-left:0px;
+    }
+    .studentRevealing-rightSide p {
+        font-size: 16px;
+        letter-spacing: 0px;
+        margin-bottom: 40px;
+    }
+    .revealing-btn {
+        border-radius: 12px;
+    }
+    .student-desc p {
+        font-size: 16px;
+        color: #434769;
+    }
+    .footer {
+        padding-bottom:0px;
+        border-bottom: 1.5px solid #E7E9F1;
+    }
+    .revaling-last-bg {
+        bottom: -15%;
+        right: -17%;
+        z-index: -1;
+    }
+    .revaling-left-first-item {
+        box-shadow: 0 0 5px #f0f0f0;
+    }
+
+
+
     .main-title-text h2 {
         font-size: 30px;
         line-height: 50px;
