@@ -666,8 +666,8 @@
         border-radius:12px;
     }
     .feature-title h2 {
-        font-size: 20px;
-        line-height: 40px;
+        font-size: 19px;
+        line-height: 35px;
         margin-top: 150px;
     }
     .feature-ser-text p {
@@ -711,10 +711,9 @@
 
 
 
-    .main-title-text h2 {
-        font-size: 30px;
-        line-height: 50px;
-    }
+
+
+
     .popular-courses h2 {
         font-size: 31px !important;
         line-height: 45px;
@@ -775,12 +774,6 @@
     }
     .popular-title h3 {
         font-size: 16px;
-    }
-    .feature-title h2 {
-        font-size: 19px;
-        margin-top: 110px;
-        line-height: 50px;
-        word-spacing: 1.5px;
     }
     .footer-social a i {
         margin-bottom: 40px;
